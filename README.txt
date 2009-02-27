@@ -59,4 +59,7 @@ Change log:
 --------------------------------------------------------------------
 
 Cheers,
+
 ashbb (Satoshi Asakawa)
+addition (this line) # by Riverbend Technologists
+
